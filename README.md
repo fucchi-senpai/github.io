@@ -1,2 +1,2 @@
-# fucchi-senpai.github.io
+# shofucchi.github.io
 This is my personal website.
